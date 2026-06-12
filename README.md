@@ -72,7 +72,7 @@ The dataset contains approximately 3,900 customer purchase records and includes 
 
 ## Author
 
-**Gargée Wagh**
+**Gargee Wagh**
 
 CSE(AIML) Student | Data Analytics Enthusiast
 
